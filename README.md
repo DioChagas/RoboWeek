@@ -4,7 +4,7 @@ Este repositório possui o código que pratiquei durante a RoboWeek, três seman
 Neste repositório você terá os códigos de testes:
 - [x] [Web](https://github.com/DioChagas/RoboWeek/tree/master/web)
 - [x] [Mobile](https://github.com/DioChagas/RoboWeek/tree/master/mobile)
-- [x] [API](https://github.com/DioChagas/RoboWeek/tree/master/api)
+- [x] [API: Busque pela seção ##### API #####](https://github.com/DioChagas/RoboWeek/blob/master/web/resources/kws.robot)
 
 
 🛠 Repositório em construção... 🧰
