@@ -1,4 +1,8 @@
-# Não subir Screenshots (deixar apenas localmente)
+# Não subir imagens(deixar apenas localmente)
 
 *.png
+*.jpg
+*.jpeg
+
+# Não apk do App Mobile
 *.apk
